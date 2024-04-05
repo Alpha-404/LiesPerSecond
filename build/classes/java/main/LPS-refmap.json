@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "net/curry/lps/mixin/inGameHudMixin": {
+      "render": "Lnet/minecraft/class_329;method_1753(Lnet/minecraft/class_332;F)V"
+    },
+    "net/curry/lps/mixin/retrieveFps": {
+      "currentFps": "field_1738:I"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/curry/lps/mixin/inGameHudMixin": {
+        "render": "Lnet/minecraft/class_329;method_1753(Lnet/minecraft/class_332;F)V"
+      },
+      "net/curry/lps/mixin/retrieveFps": {
+        "currentFps": "field_1738:I"
+      }
+    }
+  }
+}
